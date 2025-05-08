@@ -1,7 +1,3 @@
-Here's a complete `README.md` file that combines both your frontend and backend repos for the **KITS NCC Unit Management System**. You can use this in a new parent GitHub repo or directly on your portfolio/work sample:
-
----
-
 ````markdown
 # KITS NCC Unit Management System
 

@@ -1,4 +1,3 @@
-````markdown
 # KITS NCC Unit Management System
 
 This is a full-stack web application developed to streamline the operations of the NCC (National Cadet Corps) unit at KITS College. The system allows cadets to manage their profiles, stock items, and camp registrations, while the ANO (Associate NCC Officer) can monitor cadet activities, manage inventory, and send announcements.
